@@ -1,0 +1,2201 @@
+{
+    "list1": {
+        "g1_prediction": [
+            "anticipate",
+            "forecast",
+            "foresight",
+            "foresee",
+            "foretell",
+            "presage",
+            "prescience",
+            "prognosis"
+        ],
+        "g2_sign_warning": [
+            "forebode",
+            "foreshadow",
+            "ominous",
+            "premonition"
+        ],
+        "g3_causing_fear": [
+            "daunting",
+            "intimidate",
+            "sinister"
+        ],
+        "g4_very_angry": [
+            "enrage",
+            "fume",
+            "incense",
+            "indignation",
+            "infuriate",
+            "irate",
+            "ire",
+            "livid",
+            "wrath"
+        ],
+        "g5_detailed_knowledge_intellectual": [
+            "cerebral",
+            "erudite",
+            "enlightened",
+            "enlightenment",
+            "pundit",
+            "refined",
+            "refinement"
+        ],
+        "g6_skillful": [
+            "adept",
+            "adroit",
+            "consummate",
+            "deft",
+            "dexterous",
+            "finesse",
+            "proficient",
+            "prowess",
+            "inexpert",
+            "maladroit"
+        ],
+        "g7_flexible": [
+            "agile",
+            "lithe",
+            "supple"
+        ],
+        "g8_having_twists_turns_complex": [
+            "circuitous",
+            "convoluted",
+            "complicated",
+            "intertwined",
+            "involved",
+            "meander",
+            "tortuous"
+        ],
+        "g9_inclination": [
+            "affinity",
+            "aptitude",
+            "bent",
+            "disposed",
+            "penchant",
+            "predilection",
+            "predisposition",
+            "proclivity",
+            "propensity"
+        ],
+        "g10_ineffective": [
+            "futile",
+            "ineffectual",
+            "efficacy",
+            "feckless"
+        ],
+        "g11_horrifying_shocking": [
+            "aghast",
+            "appalling",
+            "egregious",
+            "ghastly",
+            "gross",
+            "gruesome",
+            "heinous",
+            "hideous",
+            "horrendous",
+            "monstrous",
+            "morbid",
+            "unsightly",
+            "vile"
+        ],
+        "g12_attractive": [
+            "aesthetic",
+            "comely"
+        ],
+        "g13_separate_connected": [
+            "disjointed",
+            "polarize",
+            "segregate",
+            "nexus"
+        ],
+        "g14_very_talented_child": [
+            "prodigy",
+            "precocious"
+        ],
+        "g15_avoid_dodge": [
+            "avert",
+            "circumvent",
+            "deflect",
+            "elude",
+            "evasive",
+            "shirk",
+            "skirt",
+            "swerve",
+            "head-on",
+            "inevitable",
+            "unavoidable"
+        ],
+        "g16_awkward_clumsy": [
+            "fumble",
+            "gauche",
+            "gawky",
+            "ungainly"
+        ],
+        "g17_optimistic": [
+            "buoyant",
+            "sanguine",
+            "upbeat"
+        ],
+        "g18_be_slow_waste_time": [
+            "dilatory",
+            "linger",
+            "malinger"
+        ],
+        "g19_instructive": [
+            "didactic",
+            "pedantic",
+            "sophist"
+        ],
+        "g20_spread": [
+            "diffuse",
+            "disseminate",
+            "promulgate",
+            "propagate"
+        ],
+        "g21_excessive_flattery": [
+            "adulation",
+            "obsequious",
+            "sycophant"
+        ],
+        "g22_bodily": [
+            "anatomical",
+            "corporeal",
+            "physiological"
+        ]
+    },
+    "list2": {
+        "g1_hate": [
+            "animosity",
+            "antipathy",
+            "aversion",
+            "despicable",
+            "detest",
+            "loathe",
+            "repel",
+            "repugnant",
+            "repulsion"
+        ],
+        "g2_old_fashioned_outdated": [
+            "antiquated",
+            "archaic",
+            "dated",
+            "obsolete",
+            "outmoded",
+            "quaint"
+        ],
+        "g3_arranged_in_time": [
+            "chronicle",
+            "chronological"
+        ],
+        "g4_co_existing": [
+            "contemporary",
+            "simultaneous",
+            "erstwhile",
+            "anachronism"
+        ],
+        "g5_cautious_careful_risky": [
+            "caveat",
+            "circumspect",
+            "heedful",
+            "prudent",
+            "wary",
+            "folly",
+            "rash",
+            "reckless"
+        ],
+        "g6_self_satisfaction": [
+            "bask",
+            "complacent"
+        ],
+        "g7_scolding": [
+            "admonish",
+            "berate",
+            "censure",
+            "chastise",
+            "rebuke",
+            "reprimand",
+            "reproach",
+            "reprove",
+            "upbraid"
+        ],
+        "g8_criticize": [
+            "assail",
+            "castigate",
+            "decry",
+            "denounce",
+            "denunciation",
+            "epithet",
+            "excoriate",
+            "invective",
+            "vituperative"
+        ],
+        "g9_to_defeat_surrender": [
+            "pulverize",
+            "subjugate",
+            "vanquish",
+            "capitulate"
+        ],
+        "g10_rule_principle_law": [
+            "canons",
+            "doctrine",
+            "dogmas",
+            "ideology",
+            "mandate",
+            "tenets"
+        ],
+        "g11_rebellious_unconventional": [
+            "dissident",
+            "heresy",
+            "heretical",
+            "heterodox",
+            "iconoclast",
+            "insurgent",
+            "insurrection",
+            "maverick",
+            "nonconformist",
+            "radical",
+            "renegade",
+            "revolutionary",
+            "subversive",
+            "conservative",
+            "conventional",
+            "hidebound",
+            "orthodox",
+            "reactionary"
+        ],
+        "g12_to_stir_up_revolt": [
+            "incite",
+            "incendiary",
+            "instigate",
+            "provoke",
+            "sedition"
+        ],
+        "g13_complain_low_degree": [
+            "captious",
+            "querulous"
+        ],
+        "g14_danger": [
+            "jeopardy",
+            "pitfall",
+            "precarious",
+            "snare"
+        ],
+        "g15_bitter_feelings_ill_will": [
+            "malevolence",
+            "malice",
+            "vicious",
+            "virulent"
+        ],
+        "g16_troubled": [
+            "beset",
+            "beleaguered",
+            "plagued"
+        ],
+        "g17_mock_disrespect": [
+            "banter",
+            "belittle",
+            "condescend",
+            "contempt",
+            "denigrate",
+            "deride",
+            "disdain",
+            "disparage",
+            "raillery",
+            "sarcastic",
+            "scorn",
+            "spurn",
+            "taunt"
+        ],
+        "g18_praise": [
+            "acclaim",
+            "accolade",
+            "applaud",
+            "approbation",
+            "commendation",
+            "encomiastic",
+            "extol",
+            "exalt",
+            "glorify",
+            "hail",
+            "laud",
+            "lionize"
+        ],
+        "g19_emphasize": [
+            "accentuate",
+            "foreground",
+            "underscore"
+        ],
+        "g20_similarity": [
+            "analogy",
+            "apathetical"
+        ],
+        "g21_coming_together": [
+            "coalesce",
+            "rally"
+        ]
+    },
+    "list3": {
+        "g1_equality": [
+            "commensurate",
+            "parity",
+            "peers",
+            "tantamount",
+            "disparate"
+        ],
+        "g2_agreement_harmony": [
+            "accord",
+            "concord",
+            "conformity",
+            "congruous",
+            "consensus",
+            "consonance",
+            "unanimity",
+            "understanding",
+            "discord",
+            "discrepancy",
+            "dissonance",
+            "friction",
+            "incompatible",
+            "irreconcilable",
+            "veto"
+        ],
+        "g3_split_gap": [
+            "chasm",
+            "dichotomy",
+            "gulf",
+            "rift",
+            "schism"
+        ],
+        "g4_aggressive_argumentative": [
+            "bellicose",
+            "belligerent",
+            "contentious",
+            "disputatious",
+            "fractious",
+            "hostility",
+            "litigious",
+            "polemical",
+            "pugnacious",
+            "recalcitrant"
+        ],
+        "g5_argue_fight": [
+            "altercation",
+            "contention",
+            "row",
+            "scuffle",
+            "tiff",
+            "truce"
+        ],
+        "g6_confused_taken_aback": [
+            "astound",
+            "baffle",
+            "bemuse",
+            "bewilder",
+            "confound",
+            "confused",
+            "obfuscate",
+            "perplex",
+            "stupefy"
+        ],
+        "g7_calm_indifferent": [
+            "apathetic",
+            "aplomb",
+            "composure",
+            "equanimity",
+            "impassive",
+            "imperturbable",
+            "nonchalant",
+            "phlegmatic",
+            "placid",
+            "serene",
+            "staid",
+            "stoic",
+            "tranquil"
+        ],
+        "g8_disturbed_agitated": [
+            "disconcert",
+            "dismay",
+            "disquiet",
+            "distraught",
+            "faze",
+            "fluster",
+            "frenetic",
+            "hysterical",
+            "implacable",
+            "perturb"
+        ],
+        "g9_make_hostile": [
+            "alienate",
+            "antagonize",
+            "estrange"
+        ],
+        "g10_include_everything": [
+            "comprehensive",
+            "encompass",
+            "expansive",
+            "exhaustive",
+            "inclusive",
+            "pervasive"
+        ],
+        "g11_present_everywhere": [
+            "omnipresent",
+            "ubiquitous"
+        ],
+        "g12_narrow_minded_regional": [
+            "insular",
+            "myopic",
+            "parochial",
+            "provincial"
+        ],
+        "g13_biased_partial": [
+            "bigot",
+            "discriminatory",
+            "partisan",
+            "prejudiced",
+            "tendentious",
+            "subjectivity"
+        ],
+        "g14_unbiased_impartial": [
+            "detached",
+            "detachment",
+            "disinterested",
+            "dispassionate",
+            "egalitarian",
+            "equitable",
+            "evenhanded",
+            "objectivity"
+        ],
+        "g15_disrespectfully_casual_non_serious": [
+            "blithe",
+            "flippant",
+            "frivolous",
+            "levity",
+            "grave",
+            "gravity"
+        ],
+        "g16_cure": [
+            "antidote",
+            "panacea"
+        ],
+        "g17_suppress_end": [
+            "quash",
+            "quell",
+            "repress",
+            "scotch",
+            "subdue"
+        ],
+        "g18_dominating": [
+            "absolute",
+            "authoritative",
+            "autocrat",
+            "despot",
+            "dictate",
+            "doctrinaire",
+            "dogmatic",
+            "imperious",
+            "totalitarian",
+            "tyrant"
+        ],
+        "g19_being_alike": [
+            "homogenity",
+            "uniformity",
+            "heterogeneity"
+        ],
+        "g20_thorough_precise": [
+            "conscientious",
+            "demanding",
+            "exacting",
+            "fastidious",
+            "meticulous",
+            "punctilious",
+            "scrupulous"
+        ],
+        "g21_fussy_hard_to_please": [
+            "nice",
+            "stickler"
+        ],
+        "g22_not_thorough_superficially": [
+            "cursory",
+            "perfunctory",
+            "summarily"
+        ]
+    },
+    "list4": {
+        "g1_short_lived": [
+            "ephemeral",
+            "evanescent",
+            "fleeting",
+            "transient",
+            "transitory"
+        ],
+        "g2_never_ending_non_stop": [
+            "chronic",
+            "incessant",
+            "inexorable",
+            "interminable",
+            "perennial",
+            "relentless"
+        ],
+        "g3_end_stop": [
+            "culminate",
+            "cease",
+            "cessation",
+            "discontinue",
+            "discontinuity",
+            "terminate",
+            "onset"
+        ],
+        "g4_irregular_periodically": [
+            "fitfully",
+            "intermittent",
+            "occasional",
+            "sporadic"
+        ],
+        "g5_calm_down_make_less_worse": [
+            "allay",
+            "alleviate",
+            "ameliorate",
+            "appease",
+            "assuage",
+            "conciliate",
+            "extenuating",
+            "mitigate",
+            "mollify",
+            "pacify",
+            "placate",
+            "propitiate",
+            "solace",
+            "temper",
+            "exacerbate"
+        ],
+        "g6_lacking_energy_lazy": [
+            "jaded",
+            "lackadaisical",
+            "lackluster",
+            "languid",
+            "lassitude",
+            "lethargic",
+            "listless"
+        ],
+        "g7_hard_working": [
+            "assiduous",
+            "diligent",
+            "industrious",
+            "painstaking",
+            "toil"
+        ],
+        "g8_happy_joyous": [
+            "beam",
+            "ecstasy",
+            "elated",
+            "euphoria",
+            "exhilaration",
+            "exultant",
+            "gaiety",
+            "jovial",
+            "regale",
+            "uproarious"
+        ],
+        "g9_sad_depressed": [
+            "anguish",
+            "bereaved",
+            "bleak",
+            "crestfallen",
+            "dejected",
+            "desolate",
+            "despair",
+            "despondent",
+            "lament",
+            "melancholy",
+            "pathos",
+            "poignant",
+            "woe"
+        ],
+        "g10_unimportant_trivial": [
+            "expendable",
+            "fringe",
+            "incidental",
+            "inconsequential",
+            "marginalization",
+            "peripheral",
+            "derivative",
+            "hackney",
+            "humdrum",
+            "mundane",
+            "pedestrian",
+            "platitude",
+            "prosaic",
+            "quotidian",
+            "trite",
+            "unremarkable"
+        ],
+        "g11_crucial_significant": [
+            "core",
+            "foremost",
+            "imperative",
+            "indispensable",
+            "mandatory",
+            "momentous",
+            "pivotal",
+            "salient",
+            "precedence"
+        ],
+        "g12_enthusiastic_excited": [
+            "ardor",
+            "ardent",
+            "avid",
+            "dynamic",
+            "ebullient",
+            "effervescent",
+            "exuberant",
+            "fervent",
+            "fervor",
+            "impassioned",
+            "vigorous",
+            "zealous",
+            "zest",
+            "dampen",
+            "tepid",
+            "rhapsody"
+        ],
+        "g13_unusual_exception": [
+            "aberration",
+            "anomaly",
+            "deviate"
+        ],
+        "g14_ordinary_normal": [
+            "banal",
+            "bromide",
+            "cliche",
+            "commonplace"
+        ],
+        "g15_boring_dull": [
+            "bland",
+            "drab",
+            "insipid",
+            "vapid"
+        ],
+        "g16_repetitious_thus_boring": [
+            "monotonous",
+            "plod",
+            "tedious"
+        ],
+        "g17_difficult_to_understand": [
+            "abstract",
+            "abstruse",
+            "arcane",
+            "esoteric",
+            "mystical",
+            "obscure",
+            "opaque",
+            "profound",
+            "profundity",
+            "recondite",
+            "perspicuous"
+        ],
+        "g18_energizing": [
+            "invigorating",
+            "revitalizing"
+        ],
+        "g19_inactive": [
+            "dormant",
+            "stagnant"
+        ]
+    },
+    "list5": {
+        "g1_lucky_unlucky": [
+            "fortuitous",
+            "opportune",
+            "propitious",
+            "serendipity",
+            "hapless"
+        ],
+        "g2_pain_suffering": [
+            "adversity",
+            "afflictions",
+            "mishap",
+            "ordeals",
+            "trials",
+            "tribulation"
+        ],
+        "g3_remembering_the_past": [
+            "evocative",
+            "hindsight",
+            "nostalgia",
+            "reminiscence",
+            "retrospect",
+            "wistful"
+        ],
+        "g4_dangerously_extreme_believer_loyalty": [
+            "fanatic",
+            "ideologue",
+            "zealot"
+        ],
+        "g5_very_less": [
+            "exiguous",
+            "meager",
+            "puny",
+            "scanty",
+            "scarce",
+            "sparse"
+        ],
+        "g6_increase": [
+            "accretion",
+            "aggrandize",
+            "augment",
+            "balloon",
+            "burgeon",
+            "dilate",
+            "enhance",
+            "magnify",
+            "mounting",
+            "proliferate",
+            "wax"
+        ],
+        "g7_reduce_restrict": [
+            "constrict",
+            "contract",
+            "curtail",
+            "dwindle",
+            "flag",
+            "retrench",
+            "wane"
+        ],
+        "g8_combine": [
+            "amalgamate",
+            "coalition",
+            "integrate",
+            "meld",
+            "pairing",
+            "synthesis"
+        ],
+        "g9_unwilling_to_spend_spending_wisely": [
+            "closefisted",
+            "miserly",
+            "parsimonious",
+            "stingy",
+            "tightfisted",
+            "frugal",
+            "thrift",
+            "husbandry",
+            "economy"
+        ],
+        "g10_lessen_in_intensity": [
+            "abate",
+            "ebb",
+            "recede",
+            "subside"
+        ],
+        "g11_relevant": [
+            "germane",
+            "pertinent"
+        ],
+        "g12_excess": [
+            "abound",
+            "copious",
+            "inundate",
+            "myriad",
+            "plethora",
+            "profuse",
+            "prolific",
+            "replete",
+            "steeped",
+            "surfeit",
+            "surge"
+        ],
+        "g13_unclear_in_meaning": [
+            "ambivalent",
+            "ambiguous",
+            "equivocal"
+        ],
+        "g14_explain_too_much": [
+            "belabor",
+            "understatement"
+        ],
+        "g15_cannot_be_defeated": [
+            "impervious",
+            "indomitable",
+            "invincible"
+        ],
+        "g16_shortage_lacking": [
+            "dearth",
+            "deficit",
+            "deprived",
+            "devoid",
+            "paucity",
+            "wanting"
+        ],
+        "g17_wealthy": [
+            "affluent",
+            "opulent"
+        ],
+        "g18_poor": [
+            "impecunious",
+            "impoverished",
+            "indigent"
+        ],
+        "g19_very_high_price": [
+            "exorbitant",
+            "prohibitive"
+        ],
+        "g20_spend_lavishly_waste": [
+            "extravagance",
+            "prodigal",
+            "profligate",
+            "spendthrift",
+            "squander"
+        ],
+        "g21_sure_certain_conditional": [
+            "absolute",
+            "categorical",
+            "certitude",
+            "conviction",
+            "emphatic",
+            "incontrovertible",
+            "unqualified",
+            "contingent",
+            "inconclusive",
+            "provisional",
+            "qualified",
+            "tentative"
+        ],
+        "g22_nervous_restless": [
+            "restive",
+            "skittish"
+        ],
+        "g23_related": [
+            "affiliated",
+            "kindred"
+        ],
+        "g24_farewell_to_go_away": [
+            "parting",
+            "valedictory",
+            "migrate"
+        ],
+        "g25_to_rise_beyond": [
+            "outstrip",
+            "surpass",
+            "transcend"
+        ],
+        "g26_competitiveness": [
+            "ambitious",
+            "ambition",
+            "aspiration",
+            "opportunism"
+        ]
+    },
+    "list6": {
+        "g1_greed": [
+            "avarice",
+            "covetous",
+            "gluttony",
+            "voracious"
+        ],
+        "g2_overly_noisy": [
+            "cacophony",
+            "clamor",
+            "clangor",
+            "discordant",
+            "raucous",
+            "strident",
+            "vociferous"
+        ],
+        "g3_pleasant_sounding": [
+            "euphony",
+            "melodious",
+            "mellifluous"
+        ],
+        "g4_supporter_enemy": [
+            "advocate",
+            "ally",
+            "champion",
+            "endorse",
+            "espouse",
+            "lobbyist",
+            "proponent",
+            "protagonist",
+            "adversary",
+            "antagonist",
+            "detractor",
+            "foe",
+            "impugn",
+            "inimical",
+            "nemesis",
+            "opponent"
+        ],
+        "g5_planned_spontaneous": [
+            "calculated",
+            "deliberate",
+            "forethought",
+            "intentional",
+            "premeditated",
+            "studied",
+            "ad-hoc",
+            "extemporaneous",
+            "impetuous",
+            "impromptu",
+            "improvise",
+            "offhand"
+        ],
+        "g6_extra_hence_unnecessary": [
+            "extraneous",
+            "redundant",
+            "superfluous"
+        ],
+        "g7_resolute_determined": [
+            "endure",
+            "immutable",
+            "indefatigable",
+            "persevere",
+            "persistence",
+            "steadfast",
+            "tenacious"
+        ],
+        "g8_fickle_fluctuating": [
+            "arbitrary",
+            "capricious",
+            "erratic",
+            "inconsistent",
+            "irresolute",
+            "mercurial",
+            "sway",
+            "temperamental",
+            "volatile",
+            "waver",
+            "whimsical"
+        ],
+        "g9_to_object_resist": [
+            "defy",
+            "demur",
+            "dissent",
+            "take_issue_with"
+        ],
+        "g10_to_make_up_create": [
+            "concoct",
+            "devise",
+            "formulate",
+            "conjure"
+        ],
+        "g11_accept_agree_give_in": [
+            "accede",
+            "acquiesce",
+            "amenable",
+            "assent",
+            "compliant",
+            "comply",
+            "concede",
+            "pliant",
+            "relent",
+            "succumb",
+            "yield",
+            "docile",
+            "malleable",
+            "controllable",
+            "plastic"
+        ],
+        "g12_to_prove_false_to_disprove": [
+            "belie",
+            "debunk",
+            "discredit",
+            "expostulate",
+            "rebut",
+            "refute",
+            "irrefutable"
+        ],
+        "g13_confirm_approve": [
+            "ascertain",
+            "affirm",
+            "corroborate",
+            "ratify",
+            "substantiate",
+            "testify",
+            "testimony",
+            "validate",
+            "unfounded"
+        ],
+        "g14_stubborn": [
+            "adamant",
+            "defiant",
+            "incorrigible",
+            "intractable",
+            "intransigent",
+            "obdurate",
+            "obstinate",
+            "perverse",
+            "recalcitrant",
+            "refractory"
+        ],
+        "g15_break_a_rule": [
+            "breach",
+            "flout",
+            "infraction",
+            "transgress",
+            "abide",
+            "adhere"
+        ],
+        "g16_famous_superior": [
+            "eminent",
+            "luminary",
+            "pre-eminent",
+            "preeminence",
+            "stature"
+        ],
+        "g17_profitable": [
+            "remunerative",
+            "lucrative"
+        ],
+        "g18_clothing": [
+            "raiment",
+            "sartorial"
+        ],
+        "g19_severe_strict": [
+            "acute",
+            "austere"
+        ],
+        "g20_village_like": [
+            "bucolic",
+            "pastoral",
+            "rustic"
+        ],
+        "g21_achievement_success": [
+            "accomplishment",
+            "triumph"
+        ],
+        "g22_indirect_experience": [
+            "vicarious"
+        ]
+    },
+    "list7": {
+        "g1_disloyalty": [
+            "treachery",
+            "treason",
+            "fidelity"
+        ],
+        "g2_just_beginning_or_developing": [
+            "inception",
+            "inchoate",
+            "incipient",
+            "infancy",
+            "nascent",
+            "rudimentary"
+        ],
+        "g3_experienced": [
+            "seasoned",
+            "veteran"
+        ],
+        "g4_expert": [
+            "connoisseur",
+            "virtuoso",
+            "layperson"
+        ],
+        "g5_summary": [
+            "crux",
+            "gist",
+            "purport",
+            "synopsis"
+        ],
+        "g6_feeling_guilty": [
+            "contrite",
+            "penitent",
+            "remorse",
+            "rueful"
+        ],
+        "g7_interval_pause": [
+            "abeyance",
+            "hiatus",
+            "lull",
+            "respite"
+        ],
+        "g8_to_lose_strength_to_weaken": [
+            "atrophy",
+            "attenuate",
+            "attrition",
+            "debilitate",
+            "degenerate",
+            "degradation",
+            "deteriorate",
+            "enervate",
+            "enfeeble",
+            "erode",
+            "flaccid",
+            "retrograde",
+            "subvert",
+            "undercut",
+            "undermine",
+            "wither"
+        ],
+        "g9_restored": [
+            "regenerate",
+            "rejuvenate",
+            "renaissance",
+            "resurrect",
+            "revive"
+        ],
+        "g10_idealistic": [
+            "quixotic",
+            "utopian"
+        ],
+        "g11_strange": [
+            "eccentric",
+            "idiosyncrasy",
+            "quirkiness"
+        ],
+        "g12_difficult": [
+            "arduous",
+            "cumbersome",
+            "demanding",
+            "exacting",
+            "laborious",
+            "onerous",
+            "facile"
+        ],
+        "g13_correct_repair": [
+            "amend",
+            "counterbalance",
+            "compensate",
+            "expiate",
+            "indemnify",
+            "redemption",
+            "redress",
+            "reparation",
+            "restitution"
+        ],
+        "g14_clear_physically_and_in_meaning": [
+            "clarity",
+            "elucidate",
+            "expound",
+            "lucid",
+            "pellucid"
+        ],
+        "g15_unclear_hazy": [
+            "becloud",
+            "indistinct",
+            "murky",
+            "nebulous",
+            "obscure"
+        ],
+        "g16_difficulty_confusing_situation": [
+            "dilemma",
+            "predicament",
+            "quandary"
+        ],
+        "g17_happening_before_main_event": [
+            "antecedent",
+            "antedate",
+            "forerunner",
+            "harbinger",
+            "precedent",
+            "precursor"
+        ],
+        "g18_immoral": [
+            "decadent",
+            "degenerate",
+            "depravity",
+            "dissolute",
+            "impropriety",
+            "wayward",
+            "conscience",
+            "integrity",
+            "irreproachable",
+            "probity",
+            "rectitude",
+            "unimpeachable"
+        ],
+        "g19_perfect": [
+            "flawless",
+            "immaculate",
+            "impeccable",
+            "infallible",
+            "flawed",
+            "foible"
+        ],
+        "g20_restrain_set_free": [
+            "bridle",
+            "circumscribe",
+            "constraint",
+            "fetter",
+            "manacle",
+            "rein",
+            "secure",
+            "shackle",
+            "emancipate",
+            "extricate"
+        ],
+        "g21_independence_freedom": [
+            "autonomy",
+            "latitude",
+            "sovereign"
+        ],
+        "g22_harmful_curse": [
+            "bane",
+            "blight",
+            "deleterious",
+            "detrimental",
+            "insidious",
+            "malignant",
+            "pernicious",
+            "benign",
+            "innocuous",
+            "boon"
+        ],
+        "g23_to_define_describe": [
+            "delineate",
+            "delimit",
+            "depict",
+            "outline"
+        ],
+        "g24_to_displace": [
+            "supplant",
+            "supersede"
+        ]
+    },
+    "list8": {
+        "g1_chaos_confusion": [
+            "pandemonium",
+            "tumultuous",
+            "turbulence",
+            "turmoil",
+            "upheaval"
+        ],
+        "g2_criminals_law_breaker": [
+            "menace",
+            "miscreant"
+        ],
+        "g3_cheat_deceive": [
+            "artful",
+            "artifice",
+            "crafty",
+            "duplicity",
+            "dupe",
+            "guile",
+            "mislead",
+            "swindle"
+        ],
+        "g4_easily_fooled_innocent": [
+            "artless",
+            "credulous",
+            "dupe",
+            "guileless",
+            "gullible",
+            "ingenuous",
+            "naive",
+            "cosmopolitan",
+            "worldly-wise"
+        ],
+        "g5_repeat": [
+            "recapitulate",
+            "reiterate"
+        ],
+        "g6_disaster": [
+            "calamitous",
+            "catastrophe",
+            "debacle",
+            "coup"
+        ],
+        "g7_doubtful": [
+            "apprehensive",
+            "cynical",
+            "dubious",
+            "questionable",
+            "skeptical"
+        ],
+        "g8_could_be_true": [
+            "credence",
+            "credible",
+            "verisimilar"
+        ],
+        "g9_improper_inappropriate_behaviour": [
+            "indecorous",
+            "flagrant",
+            "malfeasance",
+            "unbecoming",
+            "unseemly",
+            "demure"
+        ],
+        "g10_shining": [
+            "burnished",
+            "effulgent",
+            "luminous",
+            "lustrous",
+            "scintillating"
+        ],
+        "g11_self_control": [
+            "moderate",
+            "refrain",
+            "temperate",
+            "indulge"
+        ],
+        "g12_practical_possible": [
+            "conceivable",
+            "feasible",
+            "plausible",
+            "pragmatic",
+            "probable",
+            "utilitarian",
+            "viable",
+            "improbable"
+        ],
+        "g13_overly_proud": [
+            "arrogant",
+            "braggart",
+            "cavalier",
+            "conceited",
+            "egotistical",
+            "elitist",
+            "haughty",
+            "narcissistic",
+            "pompous",
+            "vainglorious",
+            "unassuming"
+        ],
+        "g14_disrespectfully_bold": [
+            "audacious",
+            "brazen",
+            "impertinent",
+            "imprudent",
+            "insolent",
+            "presumptuous"
+        ],
+        "g15_show_off": [
+            "flamboyance",
+            "flaunt",
+            "grandiose",
+            "ostentatious",
+            "pretentious",
+            "panache",
+            "brandish",
+            "unpretentious"
+        ],
+        "g16_talkative_lots_of_words": [
+            "garrulous",
+            "long-winded",
+            "loquacious",
+            "prolix",
+            "verbose",
+            "voluble"
+        ],
+        "g17_speak_less_few_words": [
+            "abridge",
+            "brevity",
+            "condense",
+            "pithy",
+            "reticent",
+            "succinct",
+            "taciturn",
+            "terse"
+        ],
+        "g18_pretense_of_morality": [
+            "hypocritical",
+            "prude"
+        ],
+        "g19_generous_supporter_provider": [
+            "altruist",
+            "benefactor",
+            "beneficent",
+            "benevolent",
+            "benignant",
+            "humane",
+            "magnanimous",
+            "munificent",
+            "patron",
+            "philanthropist"
+        ],
+        "g20_to_give_control_responsibility": [
+            "delegate",
+            "devolve"
+        ],
+        "g21_disregard": [
+            "brush_aside",
+            "discount"
+        ],
+        "g22_hesitate_on_moral_grounds": [
+            "misgivings",
+            "scruples"
+        ],
+        "g23_after_effects": [
+            "ensue",
+            "ramifications",
+            "repercussions"
+        ],
+        "g24_spiritual_earthly": [
+            "sublime",
+            "base"
+        ]
+    },
+    "list9": {
+        "g1_imitate_comic_imitation": [
+            "emulate",
+            "simulate",
+            "mimic"
+        ],
+        "g2_respect": [
+            "deference",
+            "esteem",
+            "revere",
+            "venerate"
+        ],
+        "g3_to_claim_declare": [
+            "assert",
+            "avow",
+            "contend",
+            "proclaim"
+        ],
+        "g4_give_up": [
+            "abdicate",
+            "cede",
+            "forgo",
+            "forsake",
+            "relinquish",
+            "renounce"
+        ],
+        "g5_about_to_happen": [
+            "imminent",
+            "impending"
+        ],
+        "g6_offensive_lusty": [
+            "lurid",
+            "obscene",
+            "sensational",
+            "vulgar"
+        ],
+        "g7_to_think_deeply": [
+            "contemplate",
+            "deliberate",
+            "introspect",
+            "mull",
+            "pensive",
+            "ponder",
+            "reflect",
+            "ruminate"
+        ],
+        "g8_easily_affected": [
+            "prone",
+            "subject_to",
+            "susceptible",
+            "vulnerable",
+            "immune",
+            "impervious"
+        ],
+        "g9_careless": [
+            "lax",
+            "negligent",
+            "remiss",
+            "stringent"
+        ],
+        "g10_enter_without_permission": [
+            "encroach",
+            "intrude",
+            "obtrude"
+        ],
+        "g11_friendly": [
+            "affable",
+            "amiable",
+            "amicable",
+            "congenial",
+            "cordial",
+            "cordialize",
+            "fraternize",
+            "aloof"
+        ],
+        "g12_to_irritate_make_angry": [
+            "disgruntle",
+            "exasperate",
+            "harangue",
+            "irksome",
+            "peeve",
+            "vex"
+        ],
+        "g13_take_away_forcibly": [
+            "appropriate",
+            "expropriate",
+            "usurp",
+            "preempt",
+            "inalienable"
+        ],
+        "g14_irritable": [
+            "cantankerous",
+            "chagrin",
+            "irascible",
+            "testiness"
+        ],
+        "g15_examine_carefully": [
+            "peruse",
+            "pore_over",
+            "scrutinize",
+            "browse"
+        ],
+        "g16_hide_cover_disguise": [
+            "camouflage",
+            "cloak",
+            "dissemble",
+            "feign",
+            "guise",
+            "incognito",
+            "mask",
+            "shroud"
+        ],
+        "g17_secret": [
+            "clandestine",
+            "covert",
+            "discreet",
+            "furtive",
+            "sly",
+            "stealth",
+            "surreptitious",
+            "underhanded",
+            "overt"
+        ],
+        "g18_uncover_a_secret": [
+            "unearth",
+            "unravel"
+        ],
+        "g19_variety_varied": [
+            "diversity",
+            "eclectic",
+            "multifaceted",
+            "multifarious",
+            "pastiche",
+            "variegate",
+            "versatile"
+        ],
+        "g20_exaggerate": [
+            "hyperbole",
+            "magnify",
+            "underplay",
+            "understate"
+        ],
+        "g21_reveal_hide": [
+            "divulge",
+            "reveal",
+            "conceal"
+        ]
+    },
+    "list10": {
+        "g1_fluent_clear": [
+            "articulate",
+            "coherent",
+            "eloquent",
+            "enunciate",
+            "ineffable"
+        ],
+        "g2_delay_postpone": [
+            "adjourn",
+            "defer",
+            "protract",
+            "procrastinate"
+        ],
+        "g3_beginner_inexperienced": [
+            "apprentice",
+            "novice",
+            "rookie"
+        ],
+        "g4_falsehood": [
+            "mendacity",
+            "perjury",
+            "prevarication",
+            "veracity"
+        ],
+        "g5_counter_attack": [
+            "reprisal",
+            "retaliate"
+        ],
+        "g6_illogical_strange": [
+            "absurd",
+            "atypical",
+            "bizarre",
+            "ludicrous",
+            "outlandish",
+            "preposterous",
+            "uncanny"
+        ],
+        "g7_gloomy_dark": [
+            "bleak",
+            "somber"
+        ],
+        "g8_attract_fascinate": [
+            "arresting",
+            "captivate",
+            "enamored",
+            "enthrall",
+            "mesmerize",
+            "spellbinding",
+            "ennui"
+        ],
+        "g9_widespread": [
+            "epidemic",
+            "pandemic",
+            "rampant",
+            "rife",
+            "endemic"
+        ],
+        "g10_brave": [
+            "audacious",
+            "chivalry",
+            "dauntless",
+            "gallant",
+            "intrepid",
+            "pluck",
+            "undaunted",
+            "valor"
+        ],
+        "g11_fearful_lacking_courage": [
+            "cow",
+            "cower",
+            "daunt",
+            "flinch",
+            "petrify",
+            "shrink",
+            "trepidation"
+        ],
+        "g12_embarrass": [
+            "abash",
+            "discomfit",
+            "mortify"
+        ],
+        "g13_native_local": [
+            "indigenous",
+            "exotic"
+        ],
+        "g14_puzzling": [
+            "conundrum",
+            "cryptic",
+            "enigma",
+            "inscrutable",
+            "intrigue"
+        ],
+        "g15_shy_introvert": [
+            "diffidence",
+            "reserved",
+            "retiring",
+            "timid"
+        ],
+        "g16_contradict_itself": [
+            "irony",
+            "ironic",
+            "paradox"
+        ],
+        "g17_accuse_defame": [
+            "aspersion",
+            "defame",
+            "malign",
+            "opprobrium",
+            "slander",
+            "stigmatization",
+            "vilify"
+        ],
+        "g18_disrepute_bad_reputation": [
+            "ignominy",
+            "infamy",
+            "notorious"
+        ],
+        "g19_unintentionally": [
+            "inadvertently",
+            "unwittingly"
+        ],
+        "g20_fake_deceptive": [
+            "counterfeit",
+            "devious",
+            "dubious",
+            "erroneous",
+            "fabricate",
+            "fallacious",
+            "forgery",
+            "insincere",
+            "phony",
+            "sham",
+            "sophistry",
+            "spurious",
+            "propaganda",
+            "authentic",
+            "genuine",
+            "legitimate",
+            "veritable"
+        ],
+        "g21_alert": [
+            "vigilant",
+            "inattentive"
+        ],
+        "g22_revenge": [
+            "vengeance",
+            "vindictive",
+            "retribution"
+        ],
+        "g23_urgent_demanding": [
+            "critical",
+            "exigent",
+            "pressing"
+        ],
+        "g24_story": [
+            "anecdote",
+            "narrative"
+        ],
+        "g25_placing_in_inferior_rank": [
+            "demote",
+            "relegate",
+            "subordination"
+        ]
+    },
+    "list11": {
+        "g1_spotted_stained": [
+            "blemish",
+            "taint",
+            "tarnish"
+        ],
+        "g2_spoil_disfigure": [
+            "deface",
+            "distort",
+            "impair"
+        ],
+        "g3_impure_poisonous": [
+            "adulterate",
+            "contaminate",
+            "noxious",
+            "toxic"
+        ],
+        "g4_get_rid_of_cleanse": [
+            "catharsis",
+            "expurgate",
+            "purge"
+        ],
+        "g5_unmatched_unique": [
+            "inimitable",
+            "peerless"
+        ],
+        "g6_persuade": [
+            "cogent",
+            "exhort",
+            "hortatory",
+            "induce",
+            "urge",
+            "woo",
+            "court"
+        ],
+        "g7_persuade_with_flattery": [
+            "blandishment",
+            "cajole",
+            "coax"
+        ],
+        "g8_plead": [
+            "entreaty",
+            "implore",
+            "importune"
+        ],
+        "g9_proven_to_be_right": [
+            "justifiable",
+            "untenable",
+            "indefensible"
+        ],
+        "g10_force_put_pressure": [
+            "coercion",
+            "compel",
+            "compulsion",
+            "press"
+        ],
+        "g11_tempt": [
+            "allure",
+            "entice",
+            "lure"
+        ],
+        "g12_plot_trick": [
+            "collude",
+            "connive",
+            "conspire",
+            "scheme",
+            "tactic"
+        ],
+        "g13_best_example": [
+            "archetype",
+            "embody",
+            "epitome",
+            "exemplify",
+            "paradigm",
+            "paragon",
+            "personify"
+        ],
+        "g14_intelligent_wise": [
+            "acuity",
+            "acumen",
+            "discerning",
+            "discriminating",
+            "insightful",
+            "judicious",
+            "omniscience",
+            "perceptive",
+            "perspicacious",
+            "prudent",
+            "sagacious",
+            "sage",
+            "shrewd",
+            "canny",
+            "impolitic",
+            "imprudent",
+            "simpleton"
+        ],
+        "g15_not_scared_worldly": [
+            "secular",
+            "temporal",
+            "clerical"
+        ],
+        "g16_inborn_firmly_fixed": [
+            "congenital",
+            "entrenched",
+            "ingrained",
+            "inherent",
+            "innate",
+            "intrinsic"
+        ],
+        "g17_recognized_established": [
+            "obtain",
+            "prevail",
+            "prevalent"
+        ],
+        "g18_required_necessitated": [
+            "pre-requisite",
+            "warranted"
+        ],
+        "g19_go_off_track": [
+            "astray",
+            "circuitous",
+            "digress",
+            "discursive",
+            "divergent",
+            "tangent"
+        ],
+        "g20_aware_unaware": [
+            "cognizant",
+            "oblivious"
+        ],
+        "g21_artificial_pretense": [
+            "affected",
+            "contrived",
+            "mannered",
+            "posture",
+            "pretentious"
+        ],
+        "g22_stupid_foolish": [
+            "imbecile",
+            "inane",
+            "vacuous"
+        ],
+        "g23_to_see": [
+            "behold",
+            "discern",
+            "perceive",
+            "imperceptible"
+        ],
+        "g24_sulking_bad_tempered": [
+            "peevish",
+            "pout",
+            "sullen",
+            "surly"
+        ]
+    },
+    "list12": {
+        "g1_small": [
+            "dwarf",
+            "infinitesimal",
+            "minuscule",
+            "slight"
+        ],
+        "g2_huge_big": [
+            "capacious",
+            "colossal",
+            "gargantuan",
+            "gigantic",
+            "humongous",
+            "monolithic",
+            "monumental",
+            "voluminous"
+        ],
+        "g3_insignificant": [
+            "inconsiderable",
+            "marginal",
+            "minute",
+            "negligible",
+            "trifle"
+        ],
+        "g4_to_infer": [
+            "construe",
+            "deduce",
+            "extrapolate",
+            "inductive",
+            "generalize"
+        ],
+        "g5_guesswork_unproven_theory": [
+            "conjecture",
+            "hypothetical",
+            "presumptive",
+            "speculative",
+            "surmise",
+            "empirical",
+            "experiential"
+        ],
+        "g6_hint_indirect_reference": [
+            "allude",
+            "allusion",
+            "implicit",
+            "tacit",
+            "blatant",
+            "cite",
+            "explicit"
+        ],
+        "g7_easily_noticeable": [
+            "conspicuous",
+            "distinctive",
+            "distinguishable",
+            "patent",
+            "prominent"
+        ],
+        "g8_minor_differences": [
+            "nuances",
+            "subtle",
+            "shades"
+        ],
+        "g9_frank": [
+            "candid",
+            "candor",
+            "forthright",
+            "vocal",
+            "equivocation"
+        ],
+        "g10_mistake_act_done_carelessly": [
+            "misnomer",
+            "tactless"
+        ],
+        "g11_strengthen_support": [
+            "bolster",
+            "buttress",
+            "fortify"
+        ],
+        "g12_exclude_forbid": [
+            "ostracize",
+            "shun",
+            "taboo"
+        ],
+        "g13_place_side_by_side": [
+            "adjacent",
+            "juxtaposition"
+        ],
+        "g14_to_do_happily": [
+            "alacrity",
+            "obliging",
+            "grudging"
+        ],
+        "g15_used_to": [
+            "accustomed",
+            "habituate",
+            "inure",
+            "inveterate",
+            "wont"
+        ],
+        "g16_understand": [
+            "apprehend",
+            "assimilate",
+            "comprehend",
+            "fathom",
+            "intelligible",
+            "illegible",
+            "misconstrued"
+        ],
+        "g17_weak_fragile": [
+            "intangible",
+            "tenuous",
+            "substantial"
+        ],
+        "g18_sympathy": [
+            "compassion",
+            "empathy",
+            "callous"
+        ],
+        "g19_fully_satisfied": [
+            "gratify",
+            "replete",
+            "satiate",
+            "suffice"
+        ],
+        "g20_remove_destroy": [
+            "annihilate",
+            "decimate",
+            "devastate",
+            "efface",
+            "eradicate",
+            "excise",
+            "exterminate",
+            "obliterate",
+            "perish",
+            "raze",
+            "indelible"
+        ],
+        "g21_right_to_vote": [
+            "enfranchise",
+            "suffrage"
+        ],
+        "g22_prepared": [
+            "primed"
+        ],
+        "g23_harsh_biting_sharp": [
+            "acerbic",
+            "acrimonious",
+            "caustic",
+            "incisive",
+            "scathing",
+            "euphemism",
+            "sugar_coating"
+        ]
+    },
+    "list13": {
+        "g1_unsteady": [
+            "falter",
+            "flounder",
+            "founder",
+            "fumble"
+        ],
+        "g2_without_real_power": [
+            "figurehead",
+            "nominal",
+            "titular"
+        ],
+        "g3_disrespecting_sacred_things": [
+            "blasphemy",
+            "desecrate",
+            "impious",
+            "sacrilege",
+            "anoint",
+            "consecrate",
+            "pious",
+            "sacrosanct"
+        ],
+        "g4_physically_strong": [
+            "robust",
+            "rugged",
+            "sturdy",
+            "vigorous"
+        ],
+        "g5_ban": [
+            "deplatform",
+            "sanction",
+            "veto"
+        ],
+        "g6_careless_dirty": [
+            "shoddy",
+            "sloppy",
+            "unkempt"
+        ],
+        "g7_dead_end": [
+            "impasse",
+            "stalemate"
+        ],
+        "g8_restrict_stop_prevent": [
+            "check",
+            "deter",
+            "dissuade",
+            "forestall",
+            "frustrate",
+            "hinder",
+            "impede",
+            "impediment",
+            "inhibit",
+            "obstruct",
+            "occlude",
+            "obviate",
+            "preclude",
+            "stanch",
+            "thwart",
+            "preempt"
+        ],
+        "g9_activate_speed_up": [
+            "accelerate",
+            "expedite",
+            "facilitate",
+            "kindle",
+            "precipitate",
+            "prompt",
+            "propel",
+            "spurred",
+            "stimulate"
+        ],
+        "g10_over_concern_helpful": [
+            "officious",
+            "solicitous"
+        ],
+        "g11_left_over": [
+            "remnant",
+            "residual",
+            "trace",
+            "vestige",
+            "modicum"
+        ],
+        "g12_attractive_decorative": [
+            "adorn",
+            "embellish",
+            "florid",
+            "ornate",
+            "resplendent"
+        ],
+        "g13_blameworthy_guilty": [
+            "culpable",
+            "reprehensible"
+        ],
+        "g14_to_blame_accuse_charge": [
+            "allege",
+            "allegation",
+            "implicate",
+            "incriminate",
+            "indict"
+        ],
+        "g15_punish_condemn": [
+            "condemn",
+            "convict",
+            "immure",
+            "incarcerate",
+            "sentence",
+            "condone"
+        ],
+        "g16_free_from_blame": [
+            "acquit",
+            "exonerate",
+            "vindicate"
+        ],
+        "g17_insulting_words": [
+            "deprecatory",
+            "derogatory",
+            "pejorative"
+        ],
+        "g18_overly_obedient": [
+            "servile",
+            "slavish",
+            "subservient"
+        ],
+        "g19_cancel_take_back": [
+            "annul",
+            "disavow",
+            "null",
+            "renege",
+            "repudiate",
+            "retract",
+            "revoke",
+            "void"
+        ],
+        "g20_bare": [
+            "stark",
+            "barren"
+        ],
+        "g21_thankful_bound": [
+            "beholden",
+            "grateful",
+            "gratitude",
+            "indebted",
+            "obligated"
+        ],
+        "g22_substitute": [
+            "makeshift",
+            "proxy",
+            "surrogate"
+        ],
+        "g23_a_vote": [
+            "ballot",
+            "referendum"
+        ]
+    }
+}
